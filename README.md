@@ -4,4 +4,4 @@ iPad远程登陆JupyterLab
 jupyter:
 https://mybinder.org/v2/gh/gKev1n/MyRemoteConnectTest/master?filepath=test.ipynb
 jupyter Lab:
-https://mybinder.org/v2/gh/gKev1n/MyRemoteConnectTest/master??urlpath=lab/tree/test.ipynb
+https://mybinder.org/v2/gh/gKev1n/MyRemoteConnectTest/master?urlpath=lab/tree/test.ipynb
