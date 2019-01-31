@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+nltk
+bs4
+scikit-learn
+tqdm
