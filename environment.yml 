@@ -1,0 +1,13 @@
+dependencies:
+  - python=2.7
+  - pip:
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
+    - nltk
+    - bs4
+    - tqdm
